@@ -1,0 +1,11 @@
+{ "name": "angular-trainig-task-2",
+  "description": "implementing angular-like functionality",
+  "version": "0.0.1",
+  "author" : { 
+  	"name" : "Pavel Datsenka",
+  	"email" : "Pavel_Datsenka@epam.com"
+  },
+  "dependencies": {
+    "lodash" : "latest"
+  }
+}
